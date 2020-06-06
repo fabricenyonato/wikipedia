@@ -12,7 +12,7 @@ class App extends StatelessWidget {
                 primarySwatch: Colors.orange,
                 fontFamily: 'Josefin Sans',
                 textTheme: TextTheme(
-                    display1: TextStyle(fontWeight: FontWeight.bold),
+                    headline1: TextStyle(fontWeight: FontWeight.bold),
                 ),
             ),
             home: HomePage(),

@@ -16,13 +16,13 @@ class HomePage extends StatelessWidget {
 
         List<_Article> articles = [
             _Article(
-                imageSrc: 'assets/images/da56e77d21fb0aa16878671e94b26ecab6959b88.png',
+                imageSrc: 'assets/images/joker.png',
                 name: 'The Mandalorian',
                 views: 1223445,
             ),
 
             _Article(
-                imageSrc: 'assets/images/c4366324caaa9552d9d60e079662f6d41b5d6879.png',
+                imageSrc: 'assets/images/the_mandalorian.png',
                 name: 'Joker (2019 film)',
                 views: 1223445,
             ),
